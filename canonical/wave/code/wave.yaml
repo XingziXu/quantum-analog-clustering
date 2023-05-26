@@ -1,0 +1,10 @@
+---
+rw: False
+dataset: "karate"
+num_node: 40
+deflation: "schur"
+num_itr: 500
+dynamics: "qiskit"
+dt: 1.
+start: 0
+power: True
