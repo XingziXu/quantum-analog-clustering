@@ -1,0 +1,7 @@
+{
+    "rw": true,
+    "dataset": "facebook",
+    "num_node": 50,
+    "deflation": "schur",
+    "num_itr": 2000
+}

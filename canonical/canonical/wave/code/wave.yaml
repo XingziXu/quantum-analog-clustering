@@ -1,0 +1,10 @@
+---
+rw: False
+dataset: "facebook"
+num_node: 200
+deflation: "schur"
+num_itr: 1500
+dynamics: "qiskit"
+dt: 1.
+start: 0
+power: True
